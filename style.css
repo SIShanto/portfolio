@@ -138,6 +138,7 @@ header
 {
     transform: rotate(90deg) translateX(-6px);
 }
+/*navigation bar*/
 .nav
 {
     position: fixed;
